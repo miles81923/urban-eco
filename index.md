@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 <body>
   <h1>local urban millwaukee tree planting guide</h1>
