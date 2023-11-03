@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wisconsin Red™ Musclewood
-parent: UI Components
+parent: trees
 nav_order: 7
 ---
 <head>
