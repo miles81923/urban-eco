@@ -33,3 +33,4 @@ Ezra Holman and Miles Meaux
 </div>
 ## explanation:
 
+To write a grant email the first step is always to add a website, address phone number or email so the potential donor knows how to contact you and where the email came from.
