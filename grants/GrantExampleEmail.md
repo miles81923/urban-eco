@@ -37,6 +37,23 @@ To write a grant email the first step is always to add a website, address phone 
 
 ### What should i use this for: 
 
+This grant email and explanation should be used as an outline and help for writing your own grant emails. Grant emails are very useful for any project that needs funding especially ones relating to the outdoors. The email helps show waht your project is, how they can support, what their support actually does and helps convince themto support.
+
 ###	Key points of this email
 
+Greeting:
+The greeting is important because it makes your donor feel comfortable and it helps address who the email is for specifically
+
+Campaign introduction:
+The campaign introduction introduces what you actually do as an organization. Then when linking the donors campaign to your own it makes them think about how you are both similar in your goals making them more likely to donate.
+
+Story:
+This is the most important part of the email as it brings out the emotion in the reader. By telling the reader who will be affected by their donation it can make people feel sorry for those who are hurt without their support. Making the donor the hero of the story by showing them how their support would help a cause that is stopping these thing from happening.
+
+Call to action:
+This is the final step before your goodbye. This should state exactly what kind of support you need, when you want it and what their support will help with. The call to action gives the potential donor a clear ask for help for your organization.
+
+Goodbye:
+You should always finsh your email with a goodbye along with your name and a way to contact yourself. You can add other identifying markers if you want but it is not required.
 ###	Tips for writing your own:
+
