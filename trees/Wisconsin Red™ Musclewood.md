@@ -4,23 +4,27 @@ title: Wisconsin Red™ Musclewood
 parent: Trees
 nav_order: 7
 ---
+	rating: 52/95(85 if roots removed)
+ 	score: 61% compare to 85
+
+
+
 NOT URBAN APROVED
 {: .label label-red}
   # Wisonsin Red™ Musclewood
 
 	
 <div class="code-example" markdown="1">
-	soil requirement: Adaptable to many soils, with best preformance on rich wet-mesic sites. tolerant of midly alkaline soils.			0.5pts
-	water requirment: helps fight diseases and thus makes them less likely.			-0.5pts
-	roots: uknown			0pts
-	fruits: nutelet, red-orange at maturits, heavy seed crops every 3-5 years		-0.01pts
-	life-span: roughly 100 years.													
-	maintenance: water and mulching to help prevent desease.
-	sunlight requirment: partial Shade-Full Sun.
-	height: 25-30ft.
-	foliage color: dark green and turns orange-red in fall.
-	bloom period: april-may.
-	extra notes: provides both food and habiatat to a myriad of wildlife in wisconsin.
+	Adaptability to Soil Types: high(10)
+	Water requerments: moderate(5)
+	roots: uknown(0)
+ 	fruit: No fruit or neutral[nutelet, red-orange at maturity, heavy seed crops every 3-5 years](3)
+  	toxicity: Non-poisonous(0)
+   	lifespan: long(10)
+    	maintnance: moderate(5)
+     	urban aproval: false(0)
+      	Sunlight requirments: Tolerates a wide range of sunlight conditions[partial Shade-Full Sun](10)
+        Aesthetic factor: High[beatiful fall colors](10)
 </div>
-
+	notes: This tree is great for land borders and as a yard center-peice as it has beautiful fall colors but should not be planted in urban enviroments.
 ---
