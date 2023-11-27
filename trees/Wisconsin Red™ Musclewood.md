@@ -4,8 +4,13 @@ title: Wisconsin Red™ Musclewood
 parent: Trees
 nav_order: 7
 ---
+score: 61% compare to 85
+{: .label-red}
+
 rating: 52/95(85 if roots removed)
- score: 61% compare to 85
+
+
+ 
 NOT URBAN APROVED
 {: .label label-red}
 
