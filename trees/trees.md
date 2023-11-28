@@ -7,11 +7,8 @@ has_children: true
 
 # Trees
 ## scoring system info:
-
-
-
 	Adaptability to Soil Types (0-10 points):
-		High adaptability: 10 points
+	High adaptability: 10 points
 	Moderate adaptability: 5 points
 	Low adaptability: 0 points
  
@@ -54,48 +51,46 @@ has_children: true
 		Low aesthetic value: 0 points
 
   
-## what does this data mean?
+## What does this data mean?
 	Adaptability to Soil Types (0-10 points):
-		High adaptability: The plant can thrive in a wide range of soil types, making it versatile in various environments.
-		Moderate adaptability: The plant can grow in different soil types but may have some preferences or perform better in specific conditions.
-		Low adaptability: The plant has limited tolerance for different soil types and may struggle to grow in diverse environments.
+		High adaptability: This means that the tree can thrive in multiple soil types.
+		Moderate adaptability: This means the tree thrives in most soil types but may do better or worse in certain soil types.
+		Low adaptability: This means that the tree only succeeds in specific soil types. 
 	Water Requirements:
-		Low water requirement/drought-resistant: The tree can withstand dry conditions and requires minimal watering.
-		Moderate water requirement: The tree needs an average amount of water and can tolerate periodic dry spells.
-		High water requirement: The tree demands a significant amount of water and may not survive well in arid or water-scarce regions.
+		Low water requirement/drought-resistant: This means the tree requires minimal watering and thrives in most urban locations.
+		Moderate water requirement: This means that the tree needs a moderate amount of water and may require watering during droughts.
+		High water requirement: This means the tree usually requires regular watering and will require heavy watering during droughts.
 	Root System:
-		Non-invasive: The trees root system does not disrupt nearby structures or plants, making it suitable for landscaping without causing problems.
-		Moderately invasive: The trees roots may spread moderately but generally do not pose significant issues.
-		Highly invasive: The trees has aggressive roots that can damage structures or compete with other plants for resources.
+		Non-invasive: The tree's root system does not disrupt nearby structures or plants, making it suitable for landscaping without causing problems.
+		Moderately invasive: The tree's roots may spread moderately but generally do not pose significant issues.
+		Highly invasive: The trees have aggressive roots that can damage structures or compete with other plants for resources.
 	Fruit Production:
-		Desirable fruit: The tree produces attractive, edible, or otherwise valuable fruits.
-		No fruit or neutral: The tree may produce fruits that are not particularly desirable or have no significant impact on its appeal.
-		Messy or problematic fruit: The tree produces fruits that are messy, potentially harmful, or generally undesirable.
-	Toxicity:
-		Non-poisonous: The tree is safe and non-toxic for humans and pets.
-		Mildly toxic: The tree may have some toxic components, but they are not highly dangerous in small quantities.
-		Highly toxic: The tree contains substances that can be severely harmful or lethal if ingested.
+		Desirable fruit: This means that the tree produces highly valuable fruit to humans and animals.
+		No fruit or neutral: This means that the tree either has no fruits or it does but the fruits aren't appealing or beneficial to humans and most animals.
+		Messy or problematic fruit: This means that the tree may produce harmful, messy, or deadly fruits.
+	toxicity:
+		Non-poisonous: This means that the tree does not produce any toxic or dangerous substances to humans.
+		Mildly toxic: This means that the tree may produce a toxic substance that may be harmful to humans or animals but not deadly.
+		Highly toxic: This means that the tree may produce a highly toxic substance that may be extremely harmful to humans and animals.
 	Lifespan:
-		Long (>100 years) (10 points): The tree has a long lifespan, making it a lasting addition to the landscape.
-		Moderate (50-100 years) (5 points): The trees lifespan is moderate and offers decent longevity.
-		Short (<50 years) (0 points): The tree has a relatively short lifespan and may need frequent replacement.
+		Long: 100 years or more
+		Moderate: 50-100 years
+		Short: under 50 years
 	Maintenance Needs:
-		Low maintenance: The tree requires minimal care and is easy to manage.
-		Moderate maintenance: The tree needs regular attention and care to thrive.
-		High maintenance: The tree demands extensive care and attention to stay healthy and attractive.
+		Low maintenance: This means that the tree requires little to no maintenance to stay alive.
+		Moderate maintenance: This means that the tree requires regular maintenance but only for the tree to thrive.
+		High maintenance: This means that the tree requires regular maintenance which if not done could kill or harm the tree.
 	Urban Approval:
-		Approved for urban areas: The tree is suitable for planting in urban environments and complies with urban landscaping regulations.
-		Not typically recommended for urban areas: The tree is generally not recommended for urban settings due to various factors like invasiveness or high maintenance requirements.
+		Approved for urban areas: This means that the tree will not affect any local wildlife, buildings, roads, or other plants in an urban environment.
+		Not typically recommended for urban areas: This means that the tree does not comply with 1 or more of the things stated above.
 	Sunlight Requirements:
-		Tolerates a wide range of sunlight conditions: The tree can thrive in various levels of sunlight, providing flexibility in planting locations.
-		Moderate tolerance: The tree has some flexibility in sunlight requirements but still prefers certain conditions.
-		Strict sunlight requirements: The tree requires specific light conditions and may not adapt well to different levels of sunlight.
+		Tolerates a wide range of sunlight conditions: This means that the tree can tolerate a large range of location and conditions in an urban area.
+		Moderate tolerance: This usually means that a tree can survive in both sunny and shady spots but does better in sunny locations.
+		Strict sunlight requirements: This usually means that the tree requires very sunny environments.
 	Aesthetic Factors:
-		High aesthetic value (e.g., colorful foliage, beautiful flowers): The tree adds visual appeal to the landscape with attractive features.
-		Moderate aesthetic value: The tree has some aesthetic value but may not be as visually striking as others.
-		Low aesthetic value: The tree does not contribute significantly to the visual appeal of the landscape.
-
-## what does urban aproved mean?
-	urban abroved meands that the tree can be used in an urban enviroment without destroying or disrupting property.
-
+		High aesthetic value: This means that the tree is extremely pretty and very nice to look at.
+		Moderate aesthetic value: This means that the tree may look nice but not compared to other trees that may be around.
+		Low aesthetic value: This means that the tree adds little to no to the visual appeal of an area that it is planted in.
 ---
+
+
