@@ -8,17 +8,14 @@ has_children: true
 # Trees
 ## scoring system info:
 	Adaptability to Soil Types (0-10 points):
-	High adaptability: 10 points
-	Moderate adaptability: 5 points
-	Low adaptability: 0 points
- 
+		High adaptability: 10 points
+		Moderate adaptability: 5 points
+		Low adaptability: 0 points
 	Water Requirements (0-10 points):
 		Low water requirement/drought-resistant: 10 points
 		Moderate water requirement: 5 points
-		High water requirement: 0 points
-  
+		High water requirement: 0 points 
 	Root System (0-10 points):
-
 		Non-invasive: 10 points
 		Moderately invasive: 5 points
 		Highly invasive: 0 points
